@@ -1,5 +1,5 @@
 
-# 🌸 She Can Foundation - Landing Page
+#  She Can Foundation - An Interactive WebPage
 
 A simple and responsive single-page website built for the **She Can Foundation** as part of a frontend development internship task.  
 The project is created using basic **HTML, CSS, and a little JavaScript**.
